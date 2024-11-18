@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796483674280",
+    "project_id": "mynotes-dc535",
+    "storage_bucket": "mynotes-dc535.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796483674280:android:1ec9e99dde2eb0517b229d",
+        "android_client_info": {
+          "package_name": "com.xyvona.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKia44ujdTRakZY5t72cZFex2CGn-SQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
